@@ -1,4 +1,10 @@
-# draw
+# Example code for SwiftWasm experiments
 
-A description of this package.
-# swiftwasm-examples
+
+
+```
+> brew install swiftwasm/tap/carton
+> carton dev --custom-index-page index.html
+```
+
+Open your Package.swift in XCode, and experiment with drawings.
